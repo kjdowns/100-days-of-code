@@ -16,3 +16,11 @@ improve on my front end and design skills.
 **Thoughts:** I'm excited to dive into CSS and get a better understanding of what it can do. As I feel CSS is my weakest skill currently, getting a solid rooting in the basics will be a great jumping off point to grow my skills in that area.
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/kjdowns)
+
+### Day 3: July 3, 2020
+
+**Today's Progress**: Added prototype user login flow for Trivia App
+
+**Thoughts:** It was nice to refresh some of the basics of rails after not having used it for some time. 
+
+**Link to work:** [Trivia App repo](https://github.com/kjdowns/trivia_apps)
